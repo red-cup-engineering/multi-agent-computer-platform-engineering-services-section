@@ -4,5 +4,9 @@
   "type": "module",
   "description": "Groups platform apps: inhabitable operating environments constituted across multiple agents.",
   "license": "UNLICENSED",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/multi-agent-computer-platform-engineering-services-section.git"
+  }
 }
