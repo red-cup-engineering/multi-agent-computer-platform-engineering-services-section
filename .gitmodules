@@ -1,0 +1,31 @@
+[submodule "agentic-orchestration-platform"]
+	path = apps/agentic-orchestration-platform
+	url = https://github.com/red-cup-engineering/agentic-orchestration-platform.git
+	branch = main
+[submodule "services/computer-systems-engineering-services-section/services/agent-computer-system-engineering-services-section/services/multi-agent-computer-system-engineering-services-section/services/multi-agent-computer-platform-engineering-services-section/apps/feltos"]
+	path = apps/feltos
+	url = https://github.com/red-cup-engineering/feltos.git
+	branch = main
+[submodule "metroplat"]
+	path = services/agentic-enterprise-computer-platform-engineering-services-section/apps/metroplat
+	url = https://github.com/red-cup-engineering/metroplat.git
+[submodule "metroplat-holofoam"]
+	path = services/agentic-enterprise-computer-platform-engineering-services-section/apps/metroplat-holofoam
+	url = https://github.com/red-cup-engineering/metroplat-holofoam.git
+	branch = main
+[submodule "metroplat-operations-console"]
+	path = services/agentic-enterprise-computer-platform-engineering-services-section/apps/metroplat-operations-console
+	url = https://github.com/red-cup-engineering/metroplat-operations-console.git
+	branch = main
+[submodule "muse-assist"]
+	path = services/agentic-enterprise-computer-platform-engineering-services-section/apps/muse-assist
+	url = https://github.com/red-cup-engineering/muse-assist.git
+	branch = main
+[submodule "lakotaean-organization-application"]
+	path = services/lakotaean-computer-application-engineering-services-section/apps/lakotaean-organization-application
+	url = https://github.com/red-cup-engineering/lakotaean-organization-application.git
+	branch = main
+[submodule "muse-site"]
+	path = services/agentic-enterprise-computer-platform-engineering-services-section/sites/muse.561.group
+	url = https://github.com/red-cup-engineering/muse-site.git
+	branch = main
