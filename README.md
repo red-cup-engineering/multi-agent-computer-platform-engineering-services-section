@@ -19,7 +19,7 @@ and design material tracked *here*, but not those private components.
 
 ## What a visitor can inspect
 
-- [Platform requirements](content/requirements) and
+- [Platform requirements](data/records/service-records/requirements-management-service-records) and
   [text material](content/text) recorded directly in this repository.
 - [Agentic enterprise platform specialization](services/agentic-enterprise-computer-platform-engineering-services-section/README.md),
   which identifies the enterprise hosting branch.
