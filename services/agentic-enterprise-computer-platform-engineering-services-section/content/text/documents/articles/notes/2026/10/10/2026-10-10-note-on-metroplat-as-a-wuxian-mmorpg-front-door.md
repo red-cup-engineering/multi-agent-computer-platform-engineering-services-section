@@ -30,7 +30,7 @@ The front door is a shared world, not a dashboard.
 
 ## The motifs the Leader named
 
-Each motif is a world mechanic. Each is also a mathematical object the house already holds.
+Each motif is a world mechanic. Each is also a mathematical object the Group already holds.
 - **Coloured Wang tiles and edges.** World tiling whose matching rules are visible. In theory: the Wang–Burgers correspondence, Berger's aperiodicity read as forced translational holonomy (2026-07-15 conjectures on infometrologia).
 - **The four-colour J26 gyrobifastigium exchange cells.** The board's exchange cells (2026-09-03 note on the 561 Group as a board).
 - **Burgers-vector dislocations.** Defects in the tiling that show where work does not close, as H¹ obstructions.
